@@ -1,0 +1,3 @@
+class CSKA{
+  static double coast = 999999999;
+}
